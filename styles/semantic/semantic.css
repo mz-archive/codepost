@@ -18565,14 +18565,14 @@ ol.ui.horizontal.list li:before,
 .ui.celled.grid {
   width: 100%;
   margin: 1em 0em;
-  box-shadow: 0px 0px 0px 1px #D4D4D5;
+  /*box-shadow: 0px 0px 0px 1px #D4D4D5;*/
 }
 
 .ui.celled.grid > .row {
   width: 100% !important;
   margin: 0em;
   padding: 0em;
-  box-shadow: 0px -1px 0px 0px #D4D4D5;
+  /*box-shadow: 0px -1px 0px 0px #D4D4D5;*/
 }
 
 .ui.celled.grid > .column:not(.row),
@@ -18587,7 +18587,7 @@ ol.ui.horizontal.list li:before,
 
 .ui.celled.grid > .column:not(.row),
 .ui.celled.grid > .row > .column {
-  padding: 1em;
+  /*padding: 1em;*/
 }
 
 .ui.relaxed.celled.grid > .column:not(.row),
@@ -20314,7 +20314,7 @@ Floated Menu / Item
   border-radius: 0em;
   box-shadow: none !important;
   border-bottom: none;
-  border-right: 1px solid #D4D4D5;
+  /*border-right: 1px solid #D4D4D5;*/
 }
 
 .ui.vertical.tabular.menu .item {
