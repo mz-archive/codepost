@@ -516,7 +516,7 @@ th {
 
 html,
 body {
-  height: 100%;
+  
 }
 
 html {
@@ -6183,12 +6183,19 @@ i.flag.zimbabwe:before {
 
 /* Standard */
 
+@font-face {
+  font-family: 'Lobster';
+  src: url('../../fonts/Lobster.woff') format('woff'),
+       url('../../fonts/Lobster.ttf') format('truetype'),
+       url('../../fonts/Lobster.svg#Lobster') format('svg');
+  font-weight: bold;
+}
+
 .ui.header {
   border: none;
   margin: calc(2rem -  0.14285em ) 0em 1rem;
   padding: 0em 0em;
-  font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  font-weight: bold;
+  font-family: 'Lobster', cursive, 'Arial', 'Verdana';
   line-height: 1.2857em;
   text-transform: none;
   color: rgba(0, 0, 0, 0.87);
@@ -6303,8 +6310,10 @@ i.flag.zimbabwe:before {
      Page
 ---------------*/
 
-h1.ui.header {
-  font-size: 2rem;
+h1.ui.header{
+
+  font-size: 40px;
+
 }
 
 h2.ui.header {
