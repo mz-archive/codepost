@@ -17346,7 +17346,7 @@ ol.ui.horizontal.list li:before,
   display: inline-block;
   width: 6.25%;
   padding-left: 1rem;
-  padding-right: 1rem;
+  padding-right: 1rem;  /*Отступ от серой линии*/
   vertical-align: top;
 }
 
