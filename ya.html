@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CodePost - заметки о коде и прочем</title>
+    <meta charset="utf-8">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" type="text/css" href="styles/semantic/semantic.css">
+
+    <!-- JS -->
+    <script type="text/javascript" src="styles/semantic/semantic.min.js"></script>
+</head>
+<body>
+    <div class="ui celled grid">
+
+		<div class="row">
+			<div class="five wide column"></div>
+			<div class="five wide column fx">
+				<div class="ui" style="width: 250px; float:right;">
+					<h1 class="ui center aligned header"><a href="index.html">The Code Post</a></h1>
+					<img src="img/logo.png" style="margin-left: 40px;">
+					<p align="center" style="font-family: Verdana;"><i>Заметки о коде и прочем</i></p>
+					<!-- Поиск -->
+					<div class="ui icon input">
+					  <input placeholder="Найти" type="text">
+					  <i class="inverted circular search link icon"></i>
+					</div>
+					<!-- Меню -->
+					<div class="ui vertical fluid tabular menu">
+					    <a class="item active">5 последних</a>
+					    <a class="item">Linux/Администрирование</a>
+					    <a class="item">Light Frontend</a>
+					    <a class="item">Workflow</a>
+					    <a class="item">PHP-DEV</a>
+					    <a class="item">О прочем</a>
+			    	</div>
+			    	<!-- Пагинация -->
+			    	<div class="ui pagination menu">
+										  
+						<a class="item active">
+						    Предыдущая
+						</a>
+						<a class="item">
+					    	Следующая
+					  	</a>
+						
+					</div>
+					<!-- Какой-нибудь блок -->
+					<div style="height:20px;"></div>
+			    	<!-- Подписка -->
+			    	<!-- <div class="ui form success">
+						<div class="field">
+							<label>E-mail</label>
+						    <input placeholder="joe@schmoe.com" type="email">
+						</div>
+						<div class="ui submit button">Оповещать о новом</div>
+					</div> -->
+					<div class="ui labeled button" tabindex="0">
+						  <div class="ui basic blue button">
+						    <i class="fork icon"></i> Покажу другим
+						  </div>
+						  <a class="ui basic left pointing blue label">
+						    1,048
+						  </a>
+					</div>
+
+				</div>
+				<!-- Кит -->
+				<img src="img/kit.png" style="float:left; vertical-align: bottom;">
+				</div>
+				
+
+			<div class="eleven wide column">
+
+
+				<!-- Статья -->
+				<div class="ui items content-block">
+
+					<h2 class="ui header">
+						<img class="ui image" src="media/photos/ya.gif">
+						<div class="content">
+							Яндекс все дает советы..
+						</div>
+					</h2>
+					
+					<!-- Сам контент -->
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					</p>
+					<p align="center">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/sSYRCfi3Sho" frameborder="0" allowfullscreen></iframe>
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					</p>
+
+					
+					<!-- Кнопки -->
+					<div class="ui segment">
+					  	<div class="ui labeled button" tabindex="0">
+						  <div class="ui red button">
+						    <i class="heart icon"></i> Мне помогло!
+						  </div>
+						  <a class="ui basic red left pointing label">
+						    1,048
+						  </a>
+						</div>
+
+						<button class="ui vk button">
+						  <i class="vk icon"></i>
+						  VK
+						</button>
+
+						<button class="ui facebook button">
+						  <i class="facebook icon"></i>
+						  Facebook
+						</button>
+						<button class="ui linkedin button">
+						  <i class="linkedin icon"></i>
+						  LinkedIn
+						</button>
+						<button class="ui twitter button">
+						  <i class="twitter icon"></i>
+						  Twitter
+						</button>
+					</div>
+				</div>
+				<!-- Просмотры -->
+					<div class="ui mini statistic" style="margin-left: 40%;">
+						<div class="value">
+							2,204
+						</div>
+						<div class="label">
+							Просмотров
+						</div>
+					</div>
+
+				<!-- Комментарии -->
+				<div class="ui threaded comments">
+				  <h3 class="ui dividing header">Комментарии</h3>
+				  <div class="comment">
+				    <a class="avatar">
+				      <img src="img/matt.jpg">
+				    </a>
+				    <div class="content">
+				      <a class="author">Василий Теркин</a>
+				      <div class="metadata">
+				        <span class="date">Сегодня в 05:42</span>
+				      </div>
+				      <div class="text">
+				        How artistic!
+				      </div>
+				      <div class="actions">
+				        <a class="reply">Ответить</a>
+				      </div>
+				    </div>
+				  </div>
+				  <div class="comment">
+				    <a class="avatar">
+				      <img src="img/matt.jpg">
+				    </a>
+				    <div class="content">
+				      <a class="author">Змей Горыныч</a>
+				      <div class="metadata">
+				        <span class="date">Вчера 12:30</span>
+				      </div>
+				      <div class="text">
+				        <p>This has been very useful for my research. Thanks as well!</p>
+				      </div>
+				      <div class="actions">
+				        <a class="reply">Ответить</a>
+				      </div>
+				    </div>
+				    <div class="comments">
+				      <div class="comment">
+				        <a class="avatar">
+				          <img src="img/matt.jpg">
+				        </a>
+				        <div class="content">
+				          <a class="author">Валеша Попович</a>
+				          <div class="metadata">
+				            <span class="date">Только что</span>
+				          </div>
+				          <div class="text">
+				            Elliot you are always so right :)
+				          </div>
+				          <div class="actions">
+				            <a class="reply">Ответить</a>
+				          </div>
+				        </div>
+				      </div>
+				    </div>
+				  </div>
+				  <div class="comment">
+				    <a class="avatar">
+				      <img src="img/matt.jpg">
+				    </a>
+				    <div class="content">
+				      <a class="author">Дмитрий Абрамович</a>
+				      <div class="metadata">
+				        <span class="date">5 дней назад</span>
+				      </div>
+				      <div class="text">
+				        Dude, this is awesome. Thanks so much
+				      </div>
+				      <div class="actions">
+				        <a class="reply">Ответить</a>
+				      </div>
+				    </div>
+				  </div>
+				  <form class="ui reply form">
+				    <div class="field">
+				      <textarea></textarea>
+				    </div>
+				    <div class="ui blue labeled submit icon button">
+				      <i class="icon edit"></i> Добавить комментарий
+				    </div>
+				  </form>
+				</div>
+				<!-- Конец Комментариев -->
+
+		</div>
+
+	</div>
+</body>
+</html>
