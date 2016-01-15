@@ -25,20 +25,20 @@ h1 a { color: #000000;}
 
 #adv{
 
-	background: url('../img/f-bg.jpg');
+	/*background: url('../img/f-bg.jpg');*/
 	
-	/*background: url('../img/water.jpg') no-repeat;
-	margin-left:10%;*/
 
-	/*background: url('../img/forest.jpg');*/
-	/*background: url('../img/stick.jpg');*/
-	/*background: url('../img/square.jpg');*/
+
+	background: url('../img/square.jpg');  /*Тетрадь*/
 	
-	/*background: url('../img/sub-bg.jpg');*/
+	/*background: url('../img/sub-bg.jpg');*/ /*Черновик*/
 	
 
 	height: 193px;
-	
+
+
+	/*background: url('../img/water.jpg') no-repeat;
+	margin-left:10%;*/ /*Картинка*/
 	
 
 }
@@ -56,7 +56,13 @@ h1 a { color: #000000;}
 
 }
 
-/*.menu-pad{
+.i-count{
 
-	padding-right: -100px !important;
-}*/
+	position: relative;
+	background-color: #000;
+	color: #fff;
+	opacity: 0.5;
+	height: 80px;
+	border-radius: 15px;
+}
+

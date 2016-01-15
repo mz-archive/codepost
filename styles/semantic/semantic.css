@@ -21436,7 +21436,8 @@ Floated Menu / Item
 
 .ui.menu.fluid,
 .ui.vertical.menu.fluid {
-  width: 100% !important;
+  /*width: 103% !important;*/
+  width: 257px !important;
 }
 
 /*-------------------
