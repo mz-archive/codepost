@@ -10659,6 +10659,7 @@ img.ui.bordered.image {
   display: -ms-inline-flexbox;
   display: inline-flex;
   color: rgba(0, 0, 0, 0.87);
+  margin-left:12px;
 }
 
 .ui.input input {
@@ -10909,7 +10910,7 @@ img.ui.bordered.image {
 }
 
 .ui.icon.input input {
-  padding-right: 2.67142857em !important;
+  padding-right: 1.67142857em !important;
 }
 
 .ui.icon.input > i.icon:before,
@@ -20338,10 +20339,11 @@ Floated Menu / Item
 
 .ui.vertical.tabular.menu .active.item {
   background: none #FFFFFF;
-  color: rgba(0, 0, 0, 0.95);
-  border-color: #D4D4D5;
+  /*color: rgba(0, 0, 0, 0.95);*/
+  /*border-color: #D4D4D5;*/
+  border: 1px solid #D4D4D5;
   margin: 0px -1px 0px 0px;
-  border-radius: 0.28571429rem 0px 0px 0.28571429rem !important;
+  border-radius: 0.28571429rem 0.28571429rem 0.28571429rem 0.28571429rem !important;
 }
 
 /* Vertical Right Tabular */
