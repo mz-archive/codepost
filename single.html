@@ -6,12 +6,17 @@
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link rel="stylesheet" type="text/css" href="styles/semantic/semantic.css">
+		<link rel="stylesheet" href="styles/likely.css">
 
     <!-- JS -->
     <script type="text/javascript" src="styles/semantic/semantic.min.js"></script>
+		<script src="styles/likely.js"></script>
 
     <!-- FAVICON -->
     <link rel="icon" type="image/vnd.microsoft.icon" href="favicon.ico">
+
+
+
 </head>
 <body>
     <div class="ui celled grid">
@@ -31,13 +36,14 @@
 					<!-- Меню -->
 					<div class="ui vertical fluid tabular menu">
 					    <a class="item" href="index.html">Последние заметки <i class="wait icon large"></i></a>
-					    <a class="item">Инструменты разработки <span class="ui grey circular label">5</span></a>
-					    <a class="item active" href="category.html">Linux и Настройка <span class="ui blue circular label">4</span></a>
-					    <a class="item">PHP development <span class="ui grey circular label">12</span></a>
-					    <a class="item">Light Frontend <span class="ui grey circular label">7</span></a>
-					    <a class="item">О прочем <span class="ui grey circular label">3</span></a>
+							<a class="item active" href="category.html">Workflow и окружение<span class="ui blue circular label">5</span></a>
+					    <a class="item">Разработка на сервере <span class="ui grey circular label">12</span></a>
+					    <a class="item">Разработка на клиенте <span class="ui grey circular label">7</span></a>
+					    <a class="item">Размышления, мыслишки <span class="ui grey circular label">7</span></a>
+					    <a class="item">О разных проектах <span class="ui grey circular label">3</span></a>
+					    <a class="item">О прочем, всяком...<span class="ui grey circular label">3</span></a>
 			    	</div>
-			    	
+
 					<!-- Какой-нибудь блок -->
 					<div style="height:20px;"></div>
 			    	<!-- Подписка -->
@@ -61,7 +67,7 @@
 				<!-- Кит -->
 				<img src="img/kit.png" style="float:left; vertical-align: bottom;">
 				</div>
-				
+
 
 			<div class="eleven wide column">
 
@@ -72,10 +78,10 @@
 					<h2 class="ui header">
 						<img class="ui image" src="media/photos/gitlab.png">
 						<div class="content">
-							Процесс настройки GitLab
+							Процесс настройки GitLab<span style="font-size: 12px; margin-left:270px;"><a style="color: #666666;"href="">Назад в категорию →</a>	</span>
 						</div>
 					</h2>
-					
+
 					<!-- Сам контент -->
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -221,35 +227,15 @@
 					</p>
 					<!-- Кнопки -->
 					<div class="ui segment" style="padding-left: 6%;">
-					  	
-
-						<button class="ui vk button">
-						  <i class="vk icon"></i>
-						  VK
-						</button>
-
-						<button class="ui facebook button">
-						  <i class="facebook icon"></i>
-						  Facebook
-						</button>
-						<button class="ui google plus button">
-						  <i class="google plus icon"></i>
-						  Google Plus
-						</button>
-						<button class="ui twitter button">
-						  <i class="twitter icon"></i>
-						  Twitter
-						</button>
-
-						<div class="ui labeled button" tabindex="0">
-						  <div class="ui teal button">
-						    <i class="thumbs up icon"></i> Мне помогло!
-						  </div>
-						  <a class="ui basic teal left pointing label">
-						    1,048
-						  </a>
+						<div class="likely">
+						  <div class="twitter">Твитнуть</div>
+						  <div class="facebook">Поделиться</div>
+						  <div class="gplus">Плюсануть</div>
+						  <div class="vkontakte">Поделиться</div>
+						  <div class="telegram">Отправить</div>
+						  <div class="odnoklassniki">Класснуть</div>
+						  <div class="pinterest" data-media="i/pinnable.jpg">Запинить</div>
 						</div>
-
 					</div>
 				</div>
 				<!-- Просмотры -->
