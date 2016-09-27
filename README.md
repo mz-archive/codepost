@@ -1,2 +1,2 @@
-# codepost
-Blog (now - hrml template)
+# ICEART
+Blog template(codepost.ru), by Jan 2015
