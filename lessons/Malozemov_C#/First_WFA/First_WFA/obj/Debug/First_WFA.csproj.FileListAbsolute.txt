@@ -1,0 +1,10 @@
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\bin\Debug\First_WFA.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\bin\Debug\First_WFA.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\obj\Debug\ResolveAssemblyReference.cache
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\obj\Debug\First_WFA.Properties.Resources.resources
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\obj\Debug\First_WFA.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\obj\Debug\First_WFA.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\obj\Debug\First_WFA.Form1.resources
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\obj\Debug\GenerateResource.read.1.tlog
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\obj\Debug\GenerateResource.write.1.tlog
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\First_WFA\First_WFA\obj\Debug\First_WFA.Form2.resources

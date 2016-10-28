@@ -1,0 +1,39 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3DFD1EB0-F975-4C0D-8180-F01F403C5C83/f:Program.cs" caret="689" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3DFD1EB0-F975-4C0D-8180-F01F403C5C83/f:Program.cs" caret="0" fromTop="0" />
+      <File id="3DFD1EB0-F975-4C0D-8180-F01F403C5C83/f:Program.cs" caret="722" fromTop="12" />
+      <File id="3DFD1EB0-F975-4C0D-8180-F01F403C5C83/f:Program.cs" caret="15" fromTop="1" />
+      <File id="3DFD1EB0-F975-4C0D-8180-F01F403C5C83/f:Program.cs" caret="216" fromTop="10" />
+      <File id="3DFD1EB0-F975-4C0D-8180-F01F403C5C83/f:Program.cs" caret="573" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="3" />
+      <Item value="ReadKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="Console" priority="3" />
+      <Item value="StringSplitOptions" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

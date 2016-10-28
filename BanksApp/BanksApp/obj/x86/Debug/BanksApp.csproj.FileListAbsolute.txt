@@ -1,0 +1,9 @@
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\obj\x86\Debug\BanksApp.Properties.Resources.resources
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\obj\x86\Debug\BanksApp.csproj.GenerateResource.Cache
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\bin\Debug\BanksApp.exe
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\bin\Debug\BanksApp.pdb
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\obj\x86\Debug\BanksApp.exe
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\obj\x86\Debug\BanksApp.pdb
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\obj\x86\Debug\BanksApp.BanksForm.resources
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\obj\x86\Debug\BanksApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\BanksApp\BanksApp\obj\x86\Debug\BanksApp.Bank_List.resources

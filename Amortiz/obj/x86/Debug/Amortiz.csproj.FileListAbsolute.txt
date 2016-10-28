@@ -1,0 +1,9 @@
+C:\Users\umalozemov\Desktop\Amortiz\bin\Debug\Amortiz.exe
+C:\Users\umalozemov\Desktop\Amortiz\bin\Debug\Amortiz.pdb
+C:\Users\umalozemov\Desktop\Amortiz\obj\x86\Debug\Amortiz.Form1.resources
+C:\Users\umalozemov\Desktop\Amortiz\obj\x86\Debug\Amortiz.Properties.Resources.resources
+C:\Users\umalozemov\Desktop\Amortiz\obj\x86\Debug\Amortiz.csproj.GenerateResource.Cache
+C:\Users\umalozemov\Desktop\Amortiz\obj\x86\Debug\Amortiz.exe
+C:\Users\umalozemov\Desktop\Amortiz\obj\x86\Debug\Amortiz.pdb
+C:\Users\umalozemov\Desktop\Amortiz\Amortiz\obj\x86\Debug\Amortiz.exe
+C:\Users\umalozemov\Desktop\Amortiz\Amortiz\obj\x86\Debug\Amortiz.pdb

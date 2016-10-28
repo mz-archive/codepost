@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 18 Jul 2016 19:12:22 +0600</pubDate><title><![CDATA[СтройТоргКомплект]]></title><url><![CDATA[index]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[О компании]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template_main.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;Ура все заработало!&lt;/p&gt;
+
+&lt;p&gt;Для успешной работы вам нужно&amp;nbsp;сделать следующее:&amp;nbsp;&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Зайти на страницу настроек http://&lt;s&gt;test1.ru&lt;/s&gt;/admin/settings.php. &amp;nbsp;&amp;nbsp;&lt;br /&gt;
+		login: &lt;strong&gt;admin&lt;/strong&gt;&lt;br /&gt;
+		пароль: &lt;strong&gt;123&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;Изменить адрес сайта, ввести свой email и придумать новый пароль.&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Телефон в шапке меняется тут&amp;nbsp;http://&lt;s&gt;test1.ru&lt;/s&gt;/admin/components.php&lt;/li&gt;
+	&lt;li&gt;Укажите свой email на странице http://&lt;s&gt;test1.ru&lt;/s&gt;/admin/load.php?id=p01-contact_gs . Это нужно для того, чтобы сообщения из формы контактов приходили на ваш ящик.&lt;/li&gt;
+	&lt;li&gt;Отредактируйте и затем переименуйте файл &lt;strong&gt;temp.robots.txt&lt;/strong&gt;&amp;nbsp; в &lt;strong&gt;robots.txt&lt;/strong&gt;. Он лежит в корне сайта.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Далее можно редактировать контент страниц&amp;nbsp;http://test1.ru/admin/pages.php&lt;/p&gt;
+
+&lt;p&gt;Баннер в формате PSD лежит в папке test.ru/theme/001/images&lt;/p&gt;
+
+&lt;p&gt;Успехов!&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

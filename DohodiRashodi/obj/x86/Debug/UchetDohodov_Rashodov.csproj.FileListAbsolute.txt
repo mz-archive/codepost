@@ -1,0 +1,18 @@
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\bin\Debug\UchetDohodov_Rashodov.exe
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\bin\Debug\UchetDohodov_Rashodov.pdb
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\obj\x86\Debug\UchetDohodov_Rashodov.Form1.resources
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\obj\x86\Debug\UchetDohodov_Rashodov.Properties.Resources.resources
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\obj\x86\Debug\UchetDohodov_Rashodov.csproj.GenerateResource.Cache
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\obj\x86\Debug\UchetDohodov_Rashodov.exe
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\obj\x86\Debug\UchetDohodov_Rashodov.pdb
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\obj\x86\Debug\UchetDohodov_Rashodov.global.resources
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\obj\x86\Debug\UchetDohodov_Rashodov.r_type.resources
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov\obj\x86\Debug\UchetDohodov_Rashodov.change_r_d.resources
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov - копия\obj\x86\Debug\UchetDohodov_Rashodov.exe
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov - копия\obj\x86\Debug\UchetDohodov_Rashodov.pdb
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov - копия\obj\x86\Debug\UchetDohodov_Rashodov.csprojResolveAssemblyReference.cache
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov - копия\obj\x86\Debug\UchetDohodov_Rashodov.Form1.resources
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov - копия\obj\x86\Debug\UchetDohodov_Rashodov.Properties.Resources.resources
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov - копия\obj\x86\Debug\UchetDohodov_Rashodov.csproj.GenerateResource.Cache
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov - копия\bin\Debug\UchetDohodov_Rashodov.exe
+C:\Users\umalozemov\Desktop\UchetDohodov_Rashodov - копия\bin\Debug\UchetDohodov_Rashodov.pdb

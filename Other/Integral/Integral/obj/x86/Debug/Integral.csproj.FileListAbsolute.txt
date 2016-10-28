@@ -1,0 +1,4 @@
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Integral\Integral\bin\Debug\Integral.exe
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Integral\Integral\bin\Debug\Integral.pdb
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Integral\Integral\obj\x86\Debug\Integral.exe
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Integral\Integral\obj\x86\Debug\Integral.pdb

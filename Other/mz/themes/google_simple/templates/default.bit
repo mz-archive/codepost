@@ -1,0 +1,209 @@
+<!DOCTYPE HTML>
+<html lang="<?php echo Blog::language() ?>">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<?php
+	// Charset, title, description, keywords, robots, etc
+	echo Blog::meta_tags();
+
+	// Include CSS from theme
+	echo Blog::css(array('bootstrap.min.css', 'half-slider.css'));
+
+	// Include Javascript from theme
+	// echo Blog::javascript('bootstrap.min.js');
+	// echo Blog::javascript('jquery.js');
+
+	// Include Favicon, default path: theme/css/img/favicon.ico
+	echo Blog::favicon();
+
+	// Plugins for <head></head>
+	foreach($plugins as $plugin)
+	{
+		echo $plugin->blog_head();
+	}
+?>
+<script type="text/javascript">
+ 
+           /**
+             * Функция для отправки формы средствами Ajax
+             * @author Дизайн студия ox2.ru
+             **/
+            function AjaxFormRequest(result_id,form_id,url) {
+                jQuery.ajax({
+                    url: url, //Адрес подгружаемой страницы
+                    type:     "POST", //Тип запроса
+                    dataType: "html", //Тип данных
+                    data: jQuery("#"+form_id).serialize(), 
+                    success: function(response) { //Если все нормально
+                    document.getElementById(result_id).innerHTML = response;
+
+                },
+                error: function(response) { //Если ошибка
+                document.getElementById(result_id).innerHTML = "Ошибка при отправке формы";
+                }
+             });
+                alert('Спасибо! Ваше письмо отправлено.');
+        }
+ 
+   </script>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Навигация</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="<?php echo Blog::url() ?>"><img src="<?php echo Blog::img('logo.png') ?>" style=""></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                
+               		<?php
+						foreach($plugins as $plugin)
+						{
+							if($plugin->get_slug_name() == 'plugin_pages')
+							{
+								echo '<div class="plugin_box '.$plugin->get_slug_name().'">';
+									echo $plugin->blog_body();
+								echo '</div>';
+							}
+						}
+					?>
+                
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Half Page Image Background Carousel Header -->
+    <header id="myCarousel" class="carousel slide">
+
+        <!-- Wrapper for Slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <!-- Set the first background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('<?php echo Blog::img('header.jpg') ?>');"></div>
+                <div class="carousel-caption">
+                    <h2><?php echo Blog::name() ?>
+					<br>
+					<?php echo Blog::slogan() ?>
+					</h2>         
+						<a href="#myModal"> <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal">Заказать обратный звонок</button></a>
+                </div>
+            </div>
+        </div>
+
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">	
+			<?php
+				include(THEME_VIEWS . $layout['view']);
+			?>	
+			
+			
+        </div>
+        <?php
+				
+				foreach($plugins as $plugin){
+
+					if($plugin->get_slug_name() == 'plugin_html_code')
+							{
+								echo '<div class="plugin_box '.$plugin->get_slug_name().'">';
+									echo $plugin->blog_body();
+								echo '</div>';
+							}
+				}
+			?>
+ 
+        <hr>
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-md-12">
+					<div class="footer">
+						<?php echo Blog::footer() ?>
+			
+
+					</div>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+    </div>
+	<!-- /.container -->
+	<!-- Модальное окно -->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<!-- Заголовок модального окна -->
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">×</button>
+					<h4 class="modal-title" id="myModalLabel">Заказать обратный звонок</h4>
+				</div>
+				<!-- Основная часть модального окна -->
+				<div class="modal-body">
+					<!-- Форма -->
+					<form role="form" class="form-horizontal" method="post" action="" id="form_id">
+						<!-- Блок для ввода имени -->
+						<div class="form-group">
+							<label for="name" class="control-label col-xs-3">Имя:</label>
+							<div class="col-xs-6">
+								<div class="input-group">
+									<span class="input-group-addon"></span>         
+									<input type="text" class="form-control" required="required" name="name">
+								</div>
+								<span class="glyphicon form-control-feedback"></span>
+							</div>
+						</div>
+						<!-- Блок для ввода номера телефона -->
+						<div class="form-group has-feedback">
+							<label for="phone-number" class="control-label col-xs-3">Номер телефона:</label>
+							<div class="col-xs-6">
+								<div class="input-group">
+									<span class="input-group-addon"></span>
+									<input type="text" class="form-control" required="required" name="phone-number">
+								</div>
+								<span class="glyphicon form-control-feedback"></span>
+							</div>
+						</div>
+						<!-- Конец блока для ввода номера телефона-->
+										<!-- Нижняя часть модального окна -->
+				<div class="modal-footer">
+					<button id="save" type="button" value="Отправить" onclick="AjaxFormRequest('result_div_id', 'form_id', 'req.php')"class="btn btn-primary">Отправить</button>
+				</div>
+					</form>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- jQuery -->
+    <!-- <script src="themes/google_simple/js/jquery.js"></script> -->
+
+    <!-- Bootstrap Core JavaScript -->
+    <!-- <script src="themes/google_simple/js/bootstrap.min.js"></script> -->
+	<!-- Script to Activate the Carousel -->
+	
+	<?php echo Blog::jquery(); ?>
+	<?php echo Blog::javascript('bootstrap.min.js'); ?>
+	
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+</body>
+</html>

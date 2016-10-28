@@ -1,0 +1,97 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="748" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="874" fromTop="30" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="885" fromTop="19" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="1226" fromTop="25" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="1609" fromTop="20" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="1883" fromTop="20" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="2126" fromTop="29" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="2327" fromTop="15" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="571" fromTop="9" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="2293" fromTop="15" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="2327" fromTop="15" />
+      <File id="DCEC34E9-7E57-4EA7-B076-4101562A086C/f:Form1.cs" caret="748" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="e" priority="2" />
+      <Item value="Close" priority="0" />
+      <Item value="if" priority="4" />
+      <Item value="MessageBox" priority="2" />
+      <Item value="MessageBoxButtons" priority="0" />
+      <Item value="DialogResult" priority="2" />
+      <Item value="true" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="OpenFileDialog" priority="0" />
+      <Item value="openFileDialog1" priority="2" />
+      <Item value="richTextBox1" priority="2" />
+      <Item value="RichTextBoxStreamType" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="saveFileDialog1" priority="1" />
+      <Item value="statusStrip1" priority="2" />
+      <Item value="DateTime" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OKCancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="Cancel" priority="0" />
+      <Item value="OK" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FormClosingEventArgs">
+      <Item value="Cancel" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="LoadFile" priority="0" />
+      <Item value="TextLength" priority="0" />
+      <Item value="SaveFile" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.RichTextBoxStreamType">
+      <Item value="PlainText" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.StatusStrip">
+      <Item value="Items" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="0" />
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortDateString" priority="0" />
+      <Item value="ToLongTimeString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripItem">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

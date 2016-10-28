@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 18 Jul 2016 18:14:09 +0600</pubDate><title>О компании</title><url>index</url><meta/><metad/><template>template_main.php</template><content>&amp;lt;p&amp;gt;Ура все заработало!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Для успешной работы вам нужно&amp;amp;nbsp;сделать следующее:&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+	&amp;lt;li&amp;gt;Зайти на страницу настроек http://&amp;lt;s&amp;gt;test1.ru&amp;lt;/s&amp;gt;/admin/settings.php. &amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;br /&amp;gt;
+		login: &amp;lt;strong&amp;gt;admin&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+		пароль: &amp;lt;strong&amp;gt;123&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+	&amp;lt;li&amp;gt;Изменить адрес сайта, ввести свой email и придумать новый пароль.&amp;amp;nbsp;&amp;lt;/li&amp;gt;
+	&amp;lt;li&amp;gt;Телефон в шапке меняется тут&amp;amp;nbsp;http://&amp;lt;s&amp;gt;test1.ru&amp;lt;/s&amp;gt;/admin/components.php&amp;lt;/li&amp;gt;
+	&amp;lt;li&amp;gt;Укажите свой email на странице http://&amp;lt;s&amp;gt;test1.ru&amp;lt;/s&amp;gt;/admin/load.php?id=p01-contact_gs . Это нужно для того, чтобы сообщения из формы контактов приходили на ваш ящик.&amp;lt;/li&amp;gt;
+	&amp;lt;li&amp;gt;Отредактируйте и затем переименуйте файл &amp;lt;strong&amp;gt;temp.robots.txt&amp;lt;/strong&amp;gt;&amp;amp;nbsp; в &amp;lt;strong&amp;gt;robots.txt&amp;lt;/strong&amp;gt;. Он лежит в корне сайта.&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;Далее можно редактировать контент страниц&amp;amp;nbsp;http://test1.ru/admin/pages.php&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Баннер в формате PSD лежит в папке test.ru/theme/001/images&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Успехов!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+</content><author>admin</author><parent/><menu/><menuStatus>Y</menuStatus><private/><menuOrder><![CDATA[0]]></menuOrder></item>

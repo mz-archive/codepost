@@ -1,0 +1,5 @@
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SecondProject\obj\Debug\ResolveAssemblyReference.cache
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SecondProject\bin\Debug\SecondProject.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SecondProject\bin\Debug\SecondProject.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SecondProject\obj\Debug\SecondProject.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SecondProject\obj\Debug\SecondProject.pdb

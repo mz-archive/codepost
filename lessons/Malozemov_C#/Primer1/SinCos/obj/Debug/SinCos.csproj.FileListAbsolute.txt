@@ -1,0 +1,10 @@
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\obj\Debug\ResolveAssemblyReference.cache
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\bin\Debug\SinCos.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\bin\Debug\SinCos.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\obj\Debug\SinCos.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\obj\Debug\SinCos.pdb
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\obj\Debug\SinCos.exe
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\obj\Debug\SinCos.pdb
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\bin\Debug\SinCos.exe
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\bin\Debug\SinCos.pdb
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinCos\obj\Debug\ResolveAssemblyReference.cache

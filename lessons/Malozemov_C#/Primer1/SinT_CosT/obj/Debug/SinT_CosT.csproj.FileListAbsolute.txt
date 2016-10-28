@@ -1,0 +1,10 @@
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\obj\Debug\ResolveAssemblyReference.cache
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\bin\Debug\SinT_CosT.exe
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\bin\Debug\SinT_CosT.pdb
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\obj\Debug\SinT_CosT.exe
+J:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\obj\Debug\SinT_CosT.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\obj\Debug\SinT_CosT.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\obj\Debug\SinT_CosT.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\bin\Debug\SinT_CosT.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\bin\Debug\SinT_CosT.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\SinT_CosT\obj\Debug\ResolveAssemblyReference.cache

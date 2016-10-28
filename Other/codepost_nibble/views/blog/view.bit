@@ -1,0 +1,25 @@
+<?php
+
+// There are no posts
+if(empty($posts))
+{	
+	echo '<div><img src="themes/codepost_nibble/img/rusonyx.jpg" style="margin-left: 50px; margin-top: 10px; margin-bottom: 1%;"></div>';
+	echo '<p>'.$Language->get('there are no posts').'</p>';
+}
+else
+{
+	include('includes/disqus_comments.bit');
+	include('includes/facebook_comments.bit');
+
+	echo '<div><img src="themes/codepost_nibble/img/rusonyx.jpg" style="margin-left: 50px; margin-top: 10px; margin-bottom: 1%;"></div>';
+	// Print each post
+	foreach($posts as $post)
+	{
+		include('includes/post.bit');
+	}
+}
+
+// Pager
+include('includes/pager.bit');
+
+?>

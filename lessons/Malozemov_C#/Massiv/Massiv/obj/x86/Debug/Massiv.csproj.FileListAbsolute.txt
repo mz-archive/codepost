@@ -1,0 +1,17 @@
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.Properties.Resources.resources
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\bin\Debug\Massiv.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\bin\Debug\Massiv.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.Form1.resources
+K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.exe
+K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.pdb
+K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\bin\Debug\Massiv.exe
+K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\bin\Debug\Massiv.pdb
+K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.csprojResolveAssemblyReference.cache
+K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.Form1.resources
+K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.Properties.Resources.resources
+K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Massiv\Massiv\obj\x86\Debug\Massiv.csproj.GenerateResource.Cache

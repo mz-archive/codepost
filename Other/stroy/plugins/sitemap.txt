@@ -1,0 +1,13 @@
+This topic is about the GetSimple Sitemap plugin. It is a plugin that automatically generates an ordered tree-like sitemap of your pages, giving visitors a complete overview of your website. Comments, bugs and feature requests can be posted here.
+
+Installation
+
+Download the latest version here, unzip the downloaded file and copy its contents to your plugins folder. To show a sitemap, go to the Pages tab and add the following placeholder to a page of your choice:
+
+(% sitemap %)
+
+Instead of using placeholders you can also add a sitemap directly to your template (in the sidebar for instance), using:
+
+<?php sm_show(); ?>
+
+That's it, Enjoy!

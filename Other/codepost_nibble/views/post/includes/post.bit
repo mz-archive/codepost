@@ -1,0 +1,142 @@
+				<div class="ui items content-block">
+
+					<h2 class="ui header">
+						<img class="ui image" src="themes/codepost_nibble/img/cat-ok.png">
+						<!-- Основные coffee, cat-ok, cat-wow, cat-game | Доп-ы: cat-papper, cat-mimi,  cat-pirate -->
+						<div class="content">
+							<a href="<?php echo Post::permalink() ?>" style="color: #000;"><?php echo Post::title() ?></a>
+						</div>
+					</h2>
+					<span style="color: #b8b8b8;"><i><?php echo Post::published() ?></i></span>
+					
+					<!-- Сам контент -->
+					<?php echo Post::content(true) ?>
+
+
+					<!-- Кнопки -->
+					<div class="ui segment" style="padding-left: 6%;">
+					  	
+
+						<button class="ui vk button">
+						  <i class="vk icon"></i>
+						  VK
+						</button>
+
+						<button class="ui facebook button">
+						  <i class="facebook icon"></i>
+						  Facebook
+						</button>
+						<button class="ui google plus button">
+						  <i class="google plus icon"></i>
+						  Google Plus
+						</button>
+						<button class="ui twitter button">
+						  <i class="twitter icon"></i>
+						  Twitter
+						</button>
+
+						<div class="ui labeled button" tabindex="0">
+						  <div class="ui teal button">
+						    <i class="thumbs up icon"></i> Мне помогло!
+						  </div>
+						  <a class="ui basic teal left pointing label">
+						    1,048
+						  </a>
+						</div>
+
+					</div>
+				</div>
+
+				<!-- Просмотры -->
+					<div class="ui mini statistic" style="margin-left: 40%;">
+						<div class="value">
+							2,204
+						</div>
+						<div class="label">
+							Просмотров
+						</div>
+					</div>
+
+				<!-- Комментарии -->
+				<div class="ui threaded comments">
+				  <h3 class="ui dividing header">Комментарии</h3>
+				  <div class="comment">
+				    <a class="avatar">
+				      <img src="themes/codepost_nibble/img/matt.jpg">
+				    </a>
+				    <div class="content">
+				      <a class="author">Василий Теркин</a>
+				      <div class="metadata">
+				        <span class="date">Сегодня в 05:42</span>
+				      </div>
+				      <div class="text">
+				        How artistic!
+				      </div>
+				      <div class="actions">
+				        <a class="reply">Ответить</a>
+				      </div>
+				    </div>
+				  </div>
+				  <div class="comment">
+				    <a class="avatar">
+				      <img src="themes/codepost_nibble/img/matt.jpg">
+				    </a>
+				    <div class="content">
+				      <a class="author">Змей Горыныч</a>
+				      <div class="metadata">
+				        <span class="date">Вчера 12:30</span>
+				      </div>
+				      <div class="text">
+				        <p>This has been very useful for my research. Thanks as well!</p>
+				      </div>
+				      <div class="actions">
+				        <a class="reply">Ответить</a>
+				      </div>
+				    </div>
+				    <div class="comments">
+				      <div class="comment">
+				        <a class="avatar">
+				          <img src="themes/codepost_nibble/img/matt.jpg">
+				        </a>
+				        <div class="content">
+				          <a class="author">Валеша Попович</a>
+				          <div class="metadata">
+				            <span class="date">Только что</span>
+				          </div>
+				          <div class="text">
+				            Elliot you are always so right :)
+				          </div>
+				          <div class="actions">
+				            <a class="reply">Ответить</a>
+				          </div>
+				        </div>
+				      </div>
+				    </div>
+				  </div>
+				  <div class="comment">
+				    <a class="avatar">
+				      <img src="themes/codepost_nibble/img/matt.jpg">
+				    </a>
+				    <div class="content">
+				      <a class="author">Дмитрий Абрамович</a>
+				      <div class="metadata">
+				        <span class="date">5 дней назад</span>
+				      </div>
+				      <div class="text">
+				        Dude, this is awesome. Thanks so much
+				      </div>
+				      <div class="actions">
+				        <a class="reply">Ответить</a>
+				      </div>
+				    </div>
+				  </div>
+				  <form class="ui reply form">
+				    <div class="field">
+				      <textarea></textarea>
+				    </div>
+				    <div class="ui blue labeled submit icon button">
+				      <i class="icon edit"></i> Добавить комментарий
+				    </div>
+				  </form>
+				</div>
+				<!-- Конец Комментариев -->

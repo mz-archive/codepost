@@ -1,0 +1,5 @@
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\CilKon\obj\Debug\ResolveAssemblyReference.cache
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\CilKon\bin\Debug\CilKon.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\CilKon\bin\Debug\CilKon.pdb
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\CilKon\obj\Debug\CilKon.exe
+F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\CilKon\obj\Debug\CilKon.pdb

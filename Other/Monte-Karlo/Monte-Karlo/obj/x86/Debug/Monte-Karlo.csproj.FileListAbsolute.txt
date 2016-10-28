@@ -1,0 +1,7 @@
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Monte-Karlo\Monte-Karlo\bin\Debug\Monte-Karlo.exe
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Monte-Karlo\Monte-Karlo\bin\Debug\Monte-Karlo.pdb
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Monte-Karlo\Monte-Karlo\obj\x86\Debug\Monte_Karlo.Form1.resources
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Monte-Karlo\Monte-Karlo\obj\x86\Debug\Monte_Karlo.Properties.Resources.resources
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Monte-Karlo\Monte-Karlo\obj\x86\Debug\Monte-Karlo.csproj.GenerateResource.Cache
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Monte-Karlo\Monte-Karlo\obj\x86\Debug\Monte-Karlo.exe
+C:\Users\Alex\YandexDisk-restolver\Программы\C#\Monte-Karlo\Monte-Karlo\obj\x86\Debug\Monte-Karlo.pdb
