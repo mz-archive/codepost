@@ -1,5 +1,0 @@
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\tor\bin\Debug\tor.exe
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\tor\bin\Debug\tor.pdb
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\tor\obj\Debug\ResolveAssemblyReference.cache
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\tor\obj\Debug\tor.exe
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\tor\obj\Debug\tor.pdb

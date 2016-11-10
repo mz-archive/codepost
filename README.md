@@ -1,2 +1,2 @@
-# The Liberal Arts University - programs
-архив программ за 2-3 курс
+# ICEART
+Blog template(codepost.ru), by Jan 2015

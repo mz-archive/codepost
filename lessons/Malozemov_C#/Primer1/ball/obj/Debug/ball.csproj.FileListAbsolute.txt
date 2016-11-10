@@ -1,5 +1,0 @@
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\ball\obj\Debug\ResolveAssemblyReference.cache
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\ball\bin\Debug\ball.exe
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\ball\bin\Debug\ball.pdb
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\ball\obj\Debug\ball.exe
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\Primer1\ball\obj\Debug\ball.pdb

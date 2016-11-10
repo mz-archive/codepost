@@ -1,9 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /backups/
-Disallow: /data/
-Disallow: /plugins/
-Disallow: /theme/
-
-Host: test1.ru
-Sitemap: http://test1.ru/sitemap.xml

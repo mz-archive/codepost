@@ -1,5 +1,0 @@
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\TestLearning\TestLearning\bin\Debug\TestLearning.exe
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\TestLearning\TestLearning\bin\Debug\TestLearning.pdb
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\TestLearning\TestLearning\obj\Debug\ResolveAssemblyReference.cache
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\TestLearning\TestLearning\obj\Debug\TestLearning.exe
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\TestLearning\TestLearning\obj\Debug\TestLearning.pdb

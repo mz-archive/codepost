@@ -1,9 +1,0 @@
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
-d:\user\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb

@@ -1,8 +1,0 @@
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\Integ2010\bin\Debug\Integ2010.exe
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\Integ2010\bin\Debug\Integ2010.pdb
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\Integ2010\obj\x86\Debug\ResolveAssemblyReference.cache
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\Integ2010\obj\x86\Debug\Integ2010.Properties.Resources.resources
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\Integ2010\obj\x86\Debug\GenerateResource.read.1.tlog
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\Integ2010\obj\x86\Debug\GenerateResource.write.1.tlog
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\Integ2010\obj\x86\Debug\Integ2010.exe
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\Integ2010\obj\x86\Debug\Integ2010.pdb

@@ -1,9 +1,0 @@
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\bin\Release\ArrForms_2010.exe
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\bin\Release\ArrForms_2010.pdb
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\obj\x86\Release\ResolveAssemblyReference.cache
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\obj\x86\Release\ArrForms.Form1.resources
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\obj\x86\Release\ArrForms.Properties.Resources.resources
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\obj\x86\Release\GenerateResource.read.1.tlog
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\obj\x86\Release\GenerateResource.write.1.tlog
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\obj\x86\Release\ArrForms_2010.exe
-F:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArrForms_2010\ArrForms_2010\obj\x86\Release\ArrForms_2010.pdb

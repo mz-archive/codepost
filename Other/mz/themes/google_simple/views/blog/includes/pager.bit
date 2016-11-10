@@ -1,7 +1,0 @@
-
-<div style="position:relative; clear:both; padding: 30px 20px 0px 20px">
-	<span style="float:left; "><?php echo Pager::next_link() ?></span>
-
-	<span style="float:right;"><?php echo Pager::prev_link() ?></span>
-</div>
-

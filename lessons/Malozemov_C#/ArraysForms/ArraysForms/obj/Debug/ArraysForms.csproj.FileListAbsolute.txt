@@ -1,9 +1,0 @@
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\bin\Debug\ArraysForms.exe.config
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\bin\Debug\ArraysForms.exe
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\bin\Debug\ArraysForms.pdb
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\obj\Debug\ArraysForms.csprojResolveAssemblyReference.cache
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\obj\Debug\ArraysForms.Form1.resources
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\obj\Debug\ArraysForms.Properties.Resources.resources
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\obj\Debug\ArraysForms.csproj.GenerateResource.Cache
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\obj\Debug\ArraysForms.exe
-K:\ГУ\2 курс\алгоритмизация\Malozemov_C#\ArraysForms\ArraysForms\obj\Debug\ArraysForms.pdb

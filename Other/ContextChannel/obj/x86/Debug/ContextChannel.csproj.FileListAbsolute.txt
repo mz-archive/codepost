@@ -1,8 +1,0 @@
-C:\Users\umalozemov\Desktop\ContextChannel\bin\Debug\ContextChannel.exe
-C:\Users\umalozemov\Desktop\ContextChannel\bin\Debug\ContextChannel.pdb
-C:\Users\umalozemov\Desktop\ContextChannel\bin\Debug\ZedGraph.dll
-C:\Users\umalozemov\Desktop\ContextChannel\obj\x86\Debug\ContextChannel.Form1.resources
-C:\Users\umalozemov\Desktop\ContextChannel\obj\x86\Debug\ContextChannel.Properties.Resources.resources
-C:\Users\umalozemov\Desktop\ContextChannel\obj\x86\Debug\ContextChannel.csproj.GenerateResource.Cache
-C:\Users\umalozemov\Desktop\ContextChannel\obj\x86\Debug\ContextChannel.exe
-C:\Users\umalozemov\Desktop\ContextChannel\obj\x86\Debug\ContextChannel.pdb
