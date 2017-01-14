@@ -1,2 +1,2 @@
 # ICEART
-Blog template(codepost.ru), by Jan 2015
+Blog template(codepost.ru), by Dec 2015 - Jan 2016
